@@ -1,0 +1,36 @@
+.myheaders{
+    font-size: 20pt;
+    font-weight:bold ;
+}
+.subheaders{
+font-size: 15pt;
+}
+.margin1{
+    margin-bottom: 1cm
+}
+.resume{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footers{
+    color: black;
+}
+.scratchsub{
+   float: right;
+}
+.normal{
+background-color: #cccccc;
+border: solid 2px white;
+position: absolute;
+}
+.header1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bg{
+    background-color: antiquewhite;
+}
+.footer{
+margin-left: 49%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+;
+}
